@@ -9,12 +9,16 @@
   },
   "devDependencies": {
     "@types/express": "^5.0.3",
+    "@types/node": "^24.0.0",
+    "prisma": "^6.9.0",
+    "ts-node": "^10.9.2",
     "tsc-watch": "^7.1.1",
     "typescript": "^5.8.3"
   },
   "dependencies": {
     "@apollo/server": "^4.12.2",
     "@as-integrations/express5": "^1.1.0",
+    "@prisma/client": "^6.9.0",
     "body-parser": "^2.2.0",
     "cors": "^2.8.5",
     "graphql": "^16.11.0"
